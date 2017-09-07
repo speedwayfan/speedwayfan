@@ -1,0 +1,24 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+.wrapper{
+	overflow: hidden;
+	min-height: 100%;
+	max-width: 1050px;
+}
+
+.container{
+	width: 1025px;
+}
+
+ul{
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	list-style: none;
+}
+
